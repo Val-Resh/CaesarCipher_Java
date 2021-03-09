@@ -11,3 +11,5 @@ This project was my first introduction to cryptography. The point of this projec
 
 ## What's next?
 Well, now that I have created a Caesar Cipher. My next plan is to create a code that breaks the Cipher. 
+
+UPDATE: The code to break the Cipher is now available at: https://github.com/Val-Resh/BreakingCaesarCipher_Java
